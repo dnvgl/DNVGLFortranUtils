@@ -8,7 +8,7 @@
 ! ======================================================================
 
 
-! ID: $Id: iso_c_utilities.f90 8241 2011-09-01 14:37:58Z hoel $
+! ID: $Id$
 
 MODULE ISO_C_UTILITIES
   USE, INTRINSIC :: ISO_C_BINDING ! Intrinsic module
@@ -44,5 +44,3 @@ END MODULE ISO_C_UTILITIES
 
 ! Local Variables:
 ! End:
-
-

@@ -1,9 +1,9 @@
-! Copyright (C) 2010 by Germanischer Lloyd AG
+! Copyright (C) 2010 by DNV GL SE
 
 ! ======================================================================
 ! Task      Provide utilities for FORTRAN/C Mixed language programming.
 ! ----------------------------------------------------------------------
-! Author    Berthold Hoellmann <hoel@GL-group.com>
+! Author    Berthold Hoellmann <berthold.hoellmann@dnvgl.com>
 ! Project   GLPy
 ! ======================================================================
 
